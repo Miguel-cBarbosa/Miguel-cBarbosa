@@ -32,4 +32,4 @@ Software Engineer and MSc student at Instituto Superior Técnico (IST).
 
 ---
 
-Check out some projects I have built along the way **pinned below**!
+Check out some projects I have worked on **pinned below**!
